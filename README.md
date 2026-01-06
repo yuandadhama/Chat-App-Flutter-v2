@@ -10,53 +10,42 @@ This project is a mobile chat application that allows users to communicate throu
 
 🔐 Authentication
 
-User registration
-
-User login
+- User registration
+- User login
 
 🏠 Dashboard / Home
 
-Displays friend list if available
-
-Access to chat conversations
+- Displays friend list if available
+- Access to chat conversations
 
 🔍 Add Friend System
 
-Search users by email
-
-Send friend requests
-
-Friend request notification
+- Search users by email
+- Send friend requests
+- Friend request notification
 
 👥 Friend Request Management
 
-Accept friend requests
-
-Reject friend requests
+- Accept friend requests
+- Reject friend requests
 
 💬 Chat System
 
-One-to-one text messaging
-
-Real-time message delivery
-
-Message timestamps (date & time)
-
-Text-only messages (no image/media support)
+- One-to-one text messaging
+- Real-time message delivery
+- Message timestamps (date & time)
+- Text-only messages (no image/media support)
 
 🌙 Dark Mode
 
-Light & dark theme support
+- Light & dark theme support
 
 🧑‍💻 Technologies Used
 
-Flutter – Mobile app development
-
-Firebase / Cloud Backend (if applicable, adjust if needed)
-
-Authentication
-
-Cloud database for chat and user data
+- Flutter – Mobile app development
+- Firebase / Cloud Backend (if applicable, adjust if needed)
+- Authentication
+- Cloud database for chat and user data
 
 🎯 Purpose
 
@@ -65,18 +54,13 @@ The goal of this project is to demonstrate the implementation of cloud-based ser
 
 🚀 How It Works
 
-User registers and logs in
+1. User registers and logs in
+2. User is redirected to the dashboard (home page)
+3. If friends exist, the friend list is displayed
+4. Users can search for friends using email
+5. Friend requests can be accepted or rejected
+6. After becoming friends, users can start chatting
+7. Messages are displayed with timestamps
+8. Users can switch between light and dark mode
 
-User is redirected to the dashboard (home page)
 
-If friends exist, the friend list is displayed
-
-Users can search for friends using email
-
-Friend requests can be accepted or rejected
-
-After becoming friends, users can start chatting
-
-Messages are displayed with timestamps
-
-Users can switch between light and dark mode
