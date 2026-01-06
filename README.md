@@ -17,6 +17,7 @@ This project is a mobile chat application that allows users to communicate throu
 
 - Displays friend list if available
 - Access to chat conversations
+![image alt](https://github.com/yuandadhama/Chat-App-Flutter-v2/blob/b2bec4eb923fd1a06ee0fea33bfd285e24584ee1/chat-page-image)
 
 🔍 Add Friend System
 
